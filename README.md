@@ -17,17 +17,16 @@ Hey there! I'm Harshavardhan, a Computer Science & Engineering (AIML) student wi
 
 🏆 Projects
 
+
+🔹 Discover Foods  
+- MERN stack based food discovery platform with user and food partner authentication  
+- Implemented secure login and registration using JWT and cookies  
+- Designed RESTful APIs and MongoDB schemas for data management  
+- Technologies: MongoDB, Express.js, React.js, Node.js  
+
 🔹 Online Quiz System  
 - Web-based quiz platform with timer, automatic scoring, leaderboard, and admin panel  
 - Technologies: HTML, CSS, JavaScript, PHP, MySQL  
-
-🔹 Personal Portfolio Website  
-- Responsive portfolio website to showcase skills and projects  
-- Technologies: HTML, CSS, JavaScript  
-
-🔹 AI Resume Screening & Ranking System  
-- AI-based system to analyze and rank resumes using basic NLP techniques  
-- Technologies: Python  
 
 ---
 
