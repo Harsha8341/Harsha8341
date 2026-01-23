@@ -24,9 +24,7 @@ Hey there! I'm Harshavardhan, a Computer Science & Engineering (AIML) student wi
 - Designed RESTful APIs and MongoDB schemas for data management  
 - Technologies: MongoDB, Express.js, React.js, Node.js  
 
-🔹 Online Quiz System  
-- Web-based quiz platform with timer, automatic scoring, leaderboard, and admin panel  
-- Technologies: HTML, CSS, JavaScript, PHP, MySQL  
+
 
 ---
 
